@@ -3,7 +3,8 @@ Este repositorio es una colección de fundamentos de Data Science, conceptos bá
 
 ## Áreas clave de interés
 
-- Proyectos de análisis de datos**: el mundo digital genera muchos datos, el proceso de tomar y utilizarlos para responder preguntas, identificar tendencias y extraer perpectivas, permiten a las organizaciones tomar mejores decisiones.
+- ### Proyectos de análisis de datos**:
+  el mundo digital genera muchos datos, el proceso de tomar y utilizarlos para responder preguntas, identificar tendencias y extraer perpectivas, permiten a las organizaciones tomar mejores decisiones.
 
 - Recogida de datos**: el conjunto de datos necesarios para el análisis está constituido por amplia variedad de formato. Su comprensión, variables y valores con conforman el conjunto se realizan con herramientas de software, permiten resumirlos de forma mas eficaz.
 
