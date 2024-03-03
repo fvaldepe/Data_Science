@@ -5,15 +5,15 @@ Este repositorio es una colección de fundamentos de Data Science, conceptos bá
 
 - Proyectos de análisis de datos**: el mundo digital genera muchos datos, el proceso de tomar y utilizarlos para responder preguntas, identificar tendencias y extraer perpectivas, permiten a las organizaciones tomar mejores decisiones.
 
-- Recogida de datos**:
+- Recogida de datos**: el conjunto de datos necesarios para el análisis está constituido por amplia variedad de formato. Su comprensión, variables y valores con conforman el conjunto se realizan con herramientas de software, permiten resumirlos de forma mas eficaz.
 
-- Preparación y limpieza de datos**:
+- Preparación y limpieza de datos**: proceso que describe las diferentes fuentes de datos, los archivos de datos estructurados, los no estructurados y configurar los datos segun el requisito de análisis.
 
-- Transformación de datos**: 
+- Transformación de datos**: se utilizan técnicas y herramientas para ordenar, filtrar, formatear y realizar cálculos de los datos.
 
-- Análisis estadistico**:
-- Bases de datos**:
-- Consultas estructuradas**:
+- Análisis estadistico**: permite la interpretación de los datos, identificar patrones y tendencias, para convertirlos en información significativa. Describir los distintos tipos de estadistica, descriptiva e indiferencial. Seleccion de visualizaciones que identifiquen correctamente los datos, interpretarlas que permitan solucionar planteamientos.
+- Bases de datos**: explicar los conceptos básicos de bases de datos estructurados y su gestión. Las bases de datos NoSQL son una forma más eficiente de almacenar grandes volúmenes de datos no estructurados o semiestructurados
+- Consultas estructuradas**: estrctura de las bases de datos estructuradas que almacenan datos en diferentes tablas. Utilización del lemguajes de consultas struturado SQL (Structured Query Language)
 - Visualización de datos**:
 - Conclusiones**:
 
