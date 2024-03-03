@@ -13,7 +13,7 @@ Este repositorio es una colección de fundamentos de Data Science, conceptos bá
 
 - Análisis estadistico**: permite la interpretación de los datos, identificar patrones y tendencias, para convertirlos en información significativa. Describir los distintos tipos de estadistica, descriptiva e indiferencial. Seleccion de visualizaciones que identifiquen correctamente los datos, interpretarlas que permitan solucionar planteamientos.
 - Bases de datos**: explicar los conceptos básicos de bases de datos estructurados y su gestión. Las bases de datos NoSQL son una forma más eficiente de almacenar grandes volúmenes de datos no estructurados o semiestructurados
-- Consultas estructuradas**: estrctura de las bases de datos estructuradas que almacenan datos en diferentes tablas. Utilización del lemguajes de consultas struturado SQL (Structured Query Language)
+- Consultas estructuradas**: estrctura de las bases de datos estructuradas que almacenan datos en diferentes tablas. Utilización del lenguaje de consultas struturado SQL (Structured Query Language)
 - Visualización de datos**:
 - Conclusiones**:
 
