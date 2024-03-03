@@ -24,7 +24,7 @@ Puedes clonar este repositorio o descargar recursos específicos para profundiza
 Si desea contribuir, por favor lea el archivo [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licencia
-Este proyecto está licenciado bajo la Licencia [LICENSE.md](LICENSE.md)
+Este proyecto está licenciado bajo la GNU General Public License v3.0 [LICENSE](LICENSE)
 
 ## Contacto
 Para cualquier consulta o comentario, no dude en ponerse en contacto con [fvaldepe](https://www.linkedin.com/in/fvaldepe/).
